@@ -8,6 +8,9 @@ tenmoitruong\scripts\activate.bat (active tren window)
 5. Python tenfile.py (Cd toi thu muc chua file tenfile.py nay da)
 6. Deploy app github - azure
 https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask
+git clone https://github.com/Azure-Samples/python-docs-hello-world 
+cd python-docs-hello-world
+az  webapp up --sku B1 --name nguyentrongluan-bike-rental(ten Appserivce)
 7. Xoa 1 thu muc trong linux https://vi.joecomp.com/how-remove-directory-linux
 8. Deploy tu github sang Azure 
 https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask
