@@ -13,3 +13,4 @@ https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&p
 https://docs.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=bash&pivots=python-framework-flask
 9. Autodepployment CICD
 https://github.blog/2015-09-15-automating-code-deployment-with-github-and-azure/
+10. sau khi sua code thi go lenh az webapp up de restart lai service
