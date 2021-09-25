@@ -4,4 +4,5 @@ pip install jupyter
 3. tao ra 1 moi truong ao moi
 python -m venv tenmoitruong
 tenmoitruong\scripts\activate.bat (active tren window)
-deactive (thoat)
+4. deactive (thoat)
+5. Python tenfile.py (Cd toi thu muc chua file tenfile.py nay da)
